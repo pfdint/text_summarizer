@@ -1,0 +1,57 @@
+		If you were looking for a preview of the new Microsoft, all you had to do was listen to the applause following new chief executive Satya Nadella‘s on-stage conversation with Microsoft executive Susan Hauser yesterday.
+
+“If you want to get back to an EBC because it’s more interesting and important, please feel free to do so,” he said to the audience of Microsoft employees and customers, just before the webcast stream of the talk went off.
+
+The acronym stands for Executive Briefing Center, a place on Microsoft’s Redmond, Wash., campus where big customers meet with engineering teams. But the seemingly pedestrian remark actually hints at the philosophy Nadella brings to the new job.
+
+For Nadella, it’s not about putting on a big marketing show. It’s not about the old internal processes and technologies. It’s about helping customers with smart technical achievements and doing things in a different way, changing things up.
+
+Multiple people who have worked with Nadella relayed anecdotes and impressions to VentureBeat yesterday, suggesting that a careful, inquisitive, technical, and downright unconventional man now leads the 39-year-old company.
+
+And such a personality could make Nadella well suited to intelligently shuffle Microsoft’s assets and employees into a more streamlined, simple configuration that could help the company not only strengthen its hold on high-dollar enterprise IT shops around the world and make itself a bigger name in the growing public-cloud market, but also return the company to a top position in consumer-facing applications and devices.
+
+No wonder we’ve heard that the Microsoft crowd in Redmond are thrilled with news of Nadella’s appointment, not least because he already knows plenty of people inside the company.
+
+Everything starts from his day-to-day attitude.
+
+“His demeanor is very sort of gentle, and he’s a good listener,” said Mike Tuchen, chief executive of data-integration company Talend and former general manager of Microsoft’s SQL Server marketing division.
+
+But he’s not all touchy-feely. He knows a lot about products and services available on the market, Tuchen said.
+
+“He’s very technical,” Tuchen said. “He understands developers deeply.”
+
+That ability could stem from Nadella’s eagerness to talk and collaborate with developers and companies outside the Microsoft world.
+
+“I’ve been on email threads when he said, ‘Don’t just bring me a standard list of partners; that’s not what I want,’” said Rakesh Malhotra, vice president of product at platform-as-a-service company Apprenda and a 10-year Microsoft veteran. Nadella believed the company couldn’t “have a massive leap in innovation by just doing what we’ve always done,” Malhotra said.
+
+And he doesn’t just mingle among his own crew. During a visit to Silicon Valley soon after becoming head of Microsoft’s Server and Tools business unit, Nadella met with a number of chief executives of startups, and “he came out of the room, having met them, genuinely excited — you could see the sparkle in his eye,” said Claire Lee, who worked on business development and strategic partnerships in many roles over 10 years at Microsoft.
+
+And when working with Microsoft’s own employees, Nadella has eschewed formalities, opting for more direct, detailed communication.
+
+Rather than sit alongside scores of senior executives and watch presentations from product teams on market space and advantages, Nadella typically chose to go through nitty-gritty demonstrations, with no supplementary paperwork, setting up the meetings with one or two days’ notice instead of scheduling them six weeks in advance. And he didn’t need assistants to explain everything to him, Malhotra said.
+
+“I just remember him asking many detailed questions about how our APIs [application programming interfaces] worked,” said Malhotra, who managed a team working on a private cloud management tool, among other products, at Microsoft. “It’s refreshing in a sense. This guy is going to appreciate a good piece of engineering.”
+
+And rather than only participate in events with old-school analyst firms and media outlets, he gets involved with more hip outfits. “He shows up at [Gigaom's] Structure [conference],”Malhotra said. “My first thought when I was there was, ‘What’s Structure?’ Literally, I’m like, What’s this?’ He didn’t do that for PR reasons. He feels like people are really innovating at conferences like this not the ones [executives have] traditionally gone to.”
+
+All of that adds up to a guy who, despite having been at Microsoft for 22 years, does things that are not what you might expect from someone at Microsoft.
+
+That could be because Nadella’s predecessor, Steve Ballmer, is so different.
+
+“Steve wasn’t a technology visionary, and he’ll be the first to tell you that,” said Merv Adrian, a Gartner analyst who covers data management and Gartner’s vendor lead for Microsoft. “He was business-focused, and he relied on other people. He was very sensitive to how business priorities can conflict with one another.”
+
+At times Nadella has made calls that don’t line up with the old my-way-or-the-highway Microsoft thinking, where proprietary systems and architectures ruled. In 2011 the company discontinued Dryad, a competitor to Hadoop, an ecosystem of open-source tools for storing, processing, and querying large volumes of different kinds of data. Instead it moved to support Hadoop proper, and it has since partnered with Hadoop distribution company Hortonworks.
+
+“No doubt, it wouldn’t have happened if Satya had not been behind it,” Adrian said. “I know who made the last call. It was Satya.”
+
+That’s a good example of the kind of contrarian thinking that could help Microsoft become an obvious choice for businesses today.
+
+But there have been other bold initiatives. Nadella was at the helm of Microsoft’s public cloud, Windows Azure, when Microsoft announced surprising news, like the decision to match prices with top public cloud Amazon Web Services and, more recently, the move to share Azure’s server designs with the Open Compute Project.
+
+When it comes to software, Nadella will have to shift Microsoft away from independent applications to a more integrated portfolio, so end users can enjoy more intuitive and well integrated software. And getting it all to run on Microsoft’s expanding cloud infrastructure would be wise, too, to make the most of Microsoft’s investment in building and running all of the hardware.
+
+“Office, Dynamics, SharePoint, and Exchange — if you could actually make that work together in and out of the cloud, with a delightful user interface, that sounds like heaven to me, but, you know, it’s going to take a long time,” Adrian said.
+
+As long as Nadella can keep ignoring convention, remain open to outside perspectives, and call for changes when they make sense, Microsoft stands to reclaim its position as a leader in the technology landscape, not just a maintainer. With headaches like the $900 million write-down for Surface RT tablets in the not-too-distant past, the rekindling of Microsoft won’t be easy for Nadella. But he seems like an excellent person to be leading the effort — especially with Microsoft cofounder Bill Gates helping him.
+
+“It’s going to be an incredibly hard job,” Lee said. “It’s going to be tough, for sure, but he’s got a good basis to start from. In a lot of cases, the only way is up for him in terms of growing share.”

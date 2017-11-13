@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Kompact Testing</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <script src="http://code.jquery.com/jquery-2.0.3.js"></script>
+        <script src="js/module_administration.js"></script>
+        <script src="js/document_disabbreviation.js"></script>
+        <script src="js/document_mastication.js"></script>
+        <script src="js/sentence_parsing.js"></script>
+        <script src="js/sentence_analysis.js"></script>
+        <script src="js/sentence_reordering.js"></script>
+        <script src="js/sentence_reconstitution.js"></script>
+        <script>
+            jQuery(document).ready("#summarizationButton").click(function() {
+                jQuery('#outputSpace').text(EXECUTIVE.administer(jQuery('#inputSpace').val(),jQuery('#percentage').val()));
+            });
+        </script>
+    </head>
+    <body>
+        <div>
+            <textarea id="inputSpace" placeholder="Place the document string here."></textarea>
+            <br>
+            <input id="percentage" type="number" min="0" max="100" step="1" value="50">%
+            <br>
+            <button id="summarizationButton">Summarize!</button>
+        </div>
+        <div>
+            <p id="outputSpace"></p>
+        </div>
+    </body>
+</html>
